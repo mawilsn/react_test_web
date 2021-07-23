@@ -1,0 +1,6 @@
+div .img-profile {
+    max-width: 8rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+  }

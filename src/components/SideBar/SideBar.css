@@ -1,0 +1,31 @@
+
+
+.wrapper {
+    display: flex;
+    /* justify-content: space-between; */
+  }
+  
+
+  .sidebar {
+    border: 1px solid black;
+    padding: 1%;
+    background-color:#bf80ff;
+    background-image: linear-gradient(to bottom, #9933ff, #d9b3ff);
+    
+  }
+  
+
+  
+  .sidebar {
+    /* position: absolute; left: 0; */
+    
+    height: 100vh;
+    text-align: center;
+  }
+  
+  
+  .sidebar {
+    position: -webkit-sticky;
+    position: fixed;
+    top: 20;
+  }
